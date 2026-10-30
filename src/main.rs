@@ -1,3 +1,5 @@
+use std::println;
+
 fn main() {
-    println!("Jade blahblah!");
+    println!("Jade is the best language!");
 }
