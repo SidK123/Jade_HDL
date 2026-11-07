@@ -13,3 +13,9 @@ Genuinely what are we doing still writing out `next_state = ...`, and casing on 
 Confirmed on 11/07, we are going to get rid of `always_ff` blocks.
 ## Lambdas for `always_ff`:
 Another idea is to just have 'registered lambdas'. Need to think about this one a bit more.
+
+## Generics:
+We need generics. Non-negotiable.
+
+## Type Safety:
+Non-negotiable.
