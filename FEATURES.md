@@ -18,3 +18,12 @@ We need generics. Non-negotiable. Literally just attach templates to your module
 
 ## Type Safety:
 Non-negotiable. Just safer bro.
+
+## Structs vs. Classes
+TODO.
+
+## stdlib
+Implement a standard lib, things like FIFOs, adders, etc. Give the people more stuff to work with.
+
+## Variable Length Cycles for Reduces
+Implement pipelining for reduces and other things on the compiler side.
